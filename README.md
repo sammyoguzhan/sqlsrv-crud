@@ -1,2 +1,2 @@
 # sqlsrv-crud
-a crud filr for sqlsrv function in PHP
+a crud file for sqlsrv function in PHP
